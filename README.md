@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhilove Goyal
 - 👀 I’m interested in Coding,finance,startups, competetive programming.
-- 🌱 I’m currently learning Java and Data Visualization.
-- 💞️ I’m looking to collaborate on Hackathons and various other projects also i work on Opensource projects.
+- 🌱 I’m currently learning Java and Data Visualization, ML.
+- 💞️ I’m looking to collaborate on Hackathons and various other projects.
 - 📫 To reach me abhilovegoyal17@gmail.com is my gmail.
 - 😁 My skills include Web development, C, C++, Python, MySQL. 
 
